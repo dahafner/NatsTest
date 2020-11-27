@@ -6,7 +6,7 @@ namespace NatsTest.Shared
     public static class Stuff
     {
         private static IConnection natsConnection;
-
+        
         public static IConnection NatsConnection
         {
             get
